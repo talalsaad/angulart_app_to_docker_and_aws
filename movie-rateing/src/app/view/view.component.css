@@ -1,0 +1,12 @@
+a.main_countent {
+  grid-area: right;
+}
+
+ul {
+  list-style-type: "=>";
+  list-style-position: inside;
+}
+img {
+  height: 160px;
+  width: 160px;
+}

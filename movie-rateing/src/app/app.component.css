@@ -1,0 +1,15 @@
+@import url(heroes/heroes.component.css);
+
+body {
+  background-color: transparent;
+}
+
+.bar-back {
+  height: fit-content;
+  width: fit-content;
+  grid-area: header;
+}
+
+div {
+  background-color: transparent;
+}
